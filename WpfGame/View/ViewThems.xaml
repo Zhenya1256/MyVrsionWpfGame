@@ -1,0 +1,201 @@
+﻿<UserControl x:Class="WpfGame.View.ViewThems"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:WpfGame.View"
+             mc:Ignorable="d" 
+             d:DesignHeight="700" d:DesignWidth="700">
+    <Grid   Style="{DynamicResource GridStyle}">
+
+        <DockPanel LastChildFill="True" >
+            <Label  FontSize="28" DockPanel.Dock="Left"  Visibility="Hidden"  MouseDown="Label_MouseDown" x:Name="label"  Content="Питання"  Foreground="Red"  FontWeight="ExtraBold" Width="150" Cursor="Hand" VerticalContentAlignment="Bottom"/>
+            <StackPanel  DockPanel.Dock="Bottom" x:Name="dockPanel"  Cursor="Arrow" Margin="-150,0,0,0" Height="0"  >
+                <TextBlock Style="{DynamicResource TextBlockStyle}"  x:Name="textBlock" HorizontalAlignment="Left"  Height="26" MouseDown="Label_MouseDown" FontSize="28" Cursor="Hand">       
+                        <Run FontSize="28" Foreground="Red" Text="="/><LineBreak/><Run/>
+                </TextBlock>
+
+                <Button Cursor="Hand" Command="{Binding Path=NextTimer }" VerticalAlignment="Center" HorizontalAlignment="Center"  Content="Додаткове питання" Width="285" Height="69" FontSize="36" Foreground="White"  RenderTransformOrigin="0.5,0.5"   >
+                    <Button.RenderTransform>
+                        <TransformGroup>
+                            <ScaleTransform/>
+                            <SkewTransform AngleX="-2.583"/>
+                            <RotateTransform/>
+                            <TranslateTransform X="1.647"/>
+                        </TransformGroup>
+                    </Button.RenderTransform>
+                    <Button.Background>
+                        <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                            <GradientStop Color="Black" Offset="0"/>
+                            <GradientStop Color="#FF0B054D" Offset="1"/>
+                        </LinearGradientBrush>
+                    </Button.Background>
+                </Button>
+
+            </StackPanel>
+            <Grid    Name="MainWindow"  Margin="-140,0,0,0" >
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="30"/>
+                    <RowDefinition Height="175*"/>
+                    <RowDefinition Height="175*"/>
+                    <RowDefinition Height="175*"/>
+                    <RowDefinition Height="169*"/>
+                    <RowDefinition Height="6*"/>
+                </Grid.RowDefinitions>
+  
+
+                <WrapPanel Grid.Row="1" HorizontalAlignment="Center" Margin="58,0,57,0">
+                    <Label MinWidth="150" Height="150" Content="Тема 1" FontSize="44" HorizontalAlignment="Center"  VerticalAlignment="Center" Foreground="Red" HorizontalContentAlignment="Center" VerticalContentAlignment="Center"  ></Label>
+                    <StackPanel  MouseLeave="StackDown" x:Name="Stack1"   Margin="10,0,10,10" Cursor="Hand"  MinWidth="150" Height="150">
+                        <StackPanel.InputBindings>
+                            <MouseBinding Command="{Binding StartGame}" MouseAction="LeftClick" />
+                        </StackPanel.InputBindings>
+
+                        <Image x:Name="Thame1Image1" MouseDown="StackDown1" Width="150" Height="150"></Image>
+                        <TextBlock x:Name="Thame1Text1" Padding="0,10,0,0"   Margin="0,-50,0,0" VerticalAlignment="Center" MouseDown="StackDown2" TextAlignment="Center" Height="50" FontWeight="Bold"></TextBlock>
+                    </StackPanel>
+
+                    <StackPanel  Margin="10,0,10,10"   x:Name="Stack2" MouseLeave="StackDown"   Cursor="Hand"  MinWidth="150" Height="150">
+                        <StackPanel.InputBindings>
+                            <MouseBinding Command="{Binding StartGame}" MouseAction="LeftClick" />
+                        </StackPanel.InputBindings>
+                        <Image x:Name="Thame1Image2" MouseDown="StackDown1" Width="150" Height="150"></Image>
+                        <TextBlock x:Name="Thame1Text2"  Margin="0,-50,0,0"  Padding="0,10,0,0"  MouseDown="StackDown2" TextAlignment="Center"  Height="50" FontWeight="Bold"></TextBlock>
+
+                    </StackPanel>
+                    <StackPanel  x:Name="Stack3" MouseLeave="StackDown" Margin="10,0,10,10"  Cursor="Hand" MinWidth="150" Height="150">
+                        <StackPanel.InputBindings>
+                            <MouseBinding Command="{Binding StartGame}" MouseAction="LeftClick" />
+                        </StackPanel.InputBindings>
+                        <Image x:Name="Thame1Image3" MouseDown="StackDown1" Width="150" Height="150"></Image>
+                        <TextBlock x:Name="Thame1Text3" Padding="0,10,0,0"   Margin="0,-50,0,0" FontSize="13"  MouseDown="StackDown2" TextAlignment="Center" Height="50"  FontWeight="Bold"></TextBlock>
+
+                    </StackPanel>
+                    <StackPanel  x:Name="Stack4" MouseLeave="StackDown"  Margin="10,0,10,10" Cursor="Hand"  MinWidth="150" Height="150">
+                        <StackPanel.InputBindings>
+                            <MouseBinding Command="{Binding StartGame}" MouseAction="LeftClick" />
+                        </StackPanel.InputBindings>
+                        <Image x:Name="Thame1Image4" MouseDown="StackDown1" Width="150" Height="150"></Image>
+                        <TextBlock x:Name="Thame1Text4" Padding="0,10,0,0" FontWeight="Bold"   Margin="0,-50,0,0"  MouseDown="StackDown2" TextAlignment="Center" Height="50"></TextBlock>
+
+                    </StackPanel>
+
+
+                </WrapPanel>
+                <WrapPanel Grid.Row="2" HorizontalAlignment="Center" Margin="58,0,57,0">
+                    <Label MinWidth="150" Height="150" Content="Тема 2" FontSize="44" HorizontalAlignment="Center"  VerticalAlignment="Center" Foreground="Red" HorizontalContentAlignment="Center" VerticalContentAlignment="Center"  ></Label>
+                    <StackPanel x:Name="Stack5"  MouseLeave="StackDown"  Margin="10,10,10,10"  Cursor="Hand"  MinWidth="150" Height="150">
+                        <StackPanel.InputBindings>
+                            <MouseBinding Command="{Binding StartGame}" MouseAction="LeftClick" />
+                        </StackPanel.InputBindings>
+                        <Image x:Name="Thame2Image1" MouseDown="StackDown1" Width="150" Height="150"></Image>
+                        <TextBlock FontWeight="Bold" x:Name="Thame2Text1" Padding="0,10,0,0"  Margin="0,-50,0,0"  MouseDown="StackDown2" TextAlignment="Center" Height="50"></TextBlock>
+
+                    </StackPanel>
+                    <StackPanel   MouseLeave="StackDown" x:Name="Stack6" Margin="10,10,10,10"  Cursor="Hand"  MinWidth="150" Height="150">
+                        <StackPanel.InputBindings>
+                            <MouseBinding Command="{Binding StartGame}" MouseAction="LeftClick" />
+                        </StackPanel.InputBindings>
+                        <Image x:Name="Thame2Image2" MouseDown="StackDown1" Width="150" Height="150"></Image>
+                        <TextBlock FontWeight="Bold" x:Name="Thame2Text2" Padding="0,10,0,0"    Margin="0,-50,0,0" MouseDown="StackDown2" TextAlignment="Center" Height="50"></TextBlock>
+
+                    </StackPanel>
+                    <StackPanel  MouseLeave="StackDown" x:Name="Stack7" Margin="10,10,10,10"  Cursor="Hand"  MinWidth="150" Height="150">
+                        <StackPanel.InputBindings>
+                            <MouseBinding Command="{Binding StartGame}" MouseAction="LeftClick" />
+                        </StackPanel.InputBindings>
+                        <Image x:Name="Thame2Image3" MouseDown="StackDown1" Width="150" Height="150"></Image>
+                        <TextBlock FontWeight="Bold" x:Name="Thame2Text3" Padding="0,10,0,0"  Margin="0,-50,0,0"  MouseDown="StackDown2" TextAlignment="Center" Height="50"></TextBlock>
+
+                    </StackPanel>
+                    <StackPanel  MouseLeave="StackDown" x:Name="Stack8"  Margin="10,10,10,10"  Cursor="Hand"  MinWidth="150" Height="150">
+                        <StackPanel.InputBindings>
+                            <MouseBinding Command="{Binding StartGame}" MouseAction="LeftClick" />
+                        </StackPanel.InputBindings>
+                        <Image x:Name="Thame2Image4" MouseDown="StackDown1" Width="150" Height="150"></Image>
+                        <TextBlock FontWeight="Bold" x:Name="Thame2Text4" Padding="0,10,0,0"   Margin="0,-50,0,0"  MouseDown="StackDown2" TextAlignment="Center" Height="50"></TextBlock>
+
+                    </StackPanel>
+                </WrapPanel>
+                <WrapPanel Grid.Row="3" HorizontalAlignment="Center" Margin="58,0,57,0">
+                    <Label MinWidth="150" Height="150" Content="Тема 3" FontSize="44" HorizontalAlignment="Center"  VerticalAlignment="Center" Foreground="Red" HorizontalContentAlignment="Center" VerticalContentAlignment="Center"  ></Label>
+                    <StackPanel  MouseLeave="StackDown"  x:Name="Stack9"  Margin="10,10,10,10"  Cursor="Hand"  MinWidth="150" Height="150">
+                        <StackPanel.InputBindings>
+                            <MouseBinding Command="{Binding StartGame}" MouseAction="LeftClick" />
+                        </StackPanel.InputBindings>
+                        <Image x:Name="Thame3Image1" MouseDown="StackDown1" Width="150" Height="150"></Image>
+                        <TextBlock FontWeight="Bold" x:Name="Thame3Text1" Padding="0,10,0,0"   Margin="0,-50,0,0"  MouseDown="StackDown2" TextAlignment="Center" Height="50"></TextBlock>
+
+                    </StackPanel>
+                    <StackPanel  MouseLeave="StackDown" x:Name="Stack10"  Margin="10,10,10,10" Cursor="Hand"  MinWidth="150" Height="150">
+                        <StackPanel.InputBindings>
+                            <MouseBinding Command="{Binding StartGame}" MouseAction="LeftClick" />
+                        </StackPanel.InputBindings>
+                        <Image x:Name="Thame3Image2" MouseDown="StackDown1" Width="150" Height="150"></Image>
+                        <TextBlock FontWeight="Bold" x:Name="Thame3Text2" Padding="0,10,0,0"   Margin="0,-50,0,0"  MouseDown="StackDown2" TextAlignment="Center" Height="50"></TextBlock>
+
+                    </StackPanel>
+                    <StackPanel  MouseLeave="StackDown" x:Name="Stack11" Margin="10,10,10,10" Cursor="Hand"  MinWidth="150" Height="150">
+                        <StackPanel.InputBindings>
+                            <MouseBinding Command="{Binding StartGame}" MouseAction="LeftClick" />
+                        </StackPanel.InputBindings>
+                        <Image x:Name="Thame3Image3" MouseDown="StackDown1" Width="150" Height="150"></Image>
+                        <TextBlock  FontWeight="Bold" x:Name="Thame3Text3" Padding="0,10,0,0"   Margin="0,-50,0,0"  MouseDown="StackDown2" TextAlignment="Center" Height="50"></TextBlock>
+
+                    </StackPanel>
+                    <StackPanel  MouseLeave="StackDown" x:Name="Stack12"  Margin="10,10,10,10" Cursor="Hand"  MinWidth="150" Height="150">
+                        <StackPanel.InputBindings>
+                            <MouseBinding Command="{Binding StartGame}" MouseAction="LeftClick" />
+                        </StackPanel.InputBindings>
+                        <Image x:Name="Thame3Image4" MouseDown="StackDown1" Width="150" Height="150"></Image>
+                        <TextBlock FontWeight="Bold" x:Name="Thame3Text4" Padding="0,10,0,0"   Margin="0,-50,0,0"  MouseDown="StackDown2" TextAlignment="Center" Height="50"></TextBlock>
+
+                    </StackPanel>
+                </WrapPanel>
+                <WrapPanel Grid.Row="4" HorizontalAlignment="Center" Margin="58,0,57,0" Grid.RowSpan="2">
+                    <Label MinWidth="150" Height="150" Content="Тема 4" FontSize="44" HorizontalAlignment="Center"  VerticalAlignment="Center" Foreground="Red" HorizontalContentAlignment="Center" VerticalContentAlignment="Center"  ></Label>
+                    <StackPanel  MouseLeave="StackDown" x:Name="Stack13" Margin="10,10,10,10" Cursor="Hand"  MinWidth="150" Height="150">
+                        <StackPanel.InputBindings>
+                            <MouseBinding Command="{Binding StartGame}" MouseAction="LeftClick" />
+                        </StackPanel.InputBindings>
+                        <Image x:Name="Thame4Image1" MouseDown="StackDown1" Width="150" Height="150"></Image>
+                        <TextBlock FontWeight="Bold" x:Name="Thame4Text1" Padding="0,10,0,0"   Margin="0,-50,0,0"  MouseDown="StackDown2" TextAlignment="Center"  Height="50"/>
+
+
+                    </StackPanel>
+                    <StackPanel  MouseLeave="StackDown" x:Name="Stack14"  Margin="10,10,10,10"  Cursor="Hand"  MinWidth="150" Height="150">
+                        <StackPanel.InputBindings>
+                            <MouseBinding Command="{Binding StartGame}" MouseAction="LeftClick" />
+                        </StackPanel.InputBindings>
+                        <Image x:Name="Thame4Image2" MouseDown="StackDown1" Width="150" Height="150"></Image>
+                        <TextBlock  FontWeight="Bold" x:Name="Thame4Text2" Padding="0,10,0,0"   Margin="0,-50,0,0"  MouseDown="StackDown2" TextAlignment="Center" Height="50"></TextBlock>
+
+                    </StackPanel>
+                    <StackPanel  Margin="10,10,10,10" MouseLeave="StackDown" x:Name="Stack15"   Cursor="Hand" MinWidth="150" Height="150">
+                        <StackPanel.InputBindings>
+                            <MouseBinding Command="{Binding StartGame}" MouseAction="LeftClick" />
+                        </StackPanel.InputBindings>
+
+                        <Image   x:Name="Thame4Image3" MouseDown="StackDown1" Width="150" Height="150"></Image>
+                        <TextBlock FontWeight="Bold"  Margin="0,-50,0,0" Padding="0,10,0,0"   x:Name="Thame4Text3"  MouseDown="StackDown2" TextAlignment="Center" Height="50">
+                        </TextBlock>
+
+
+                    </StackPanel>
+                    <StackPanel  MouseLeave="StackDown" x:Name="Stack16"  Margin="10,10,10,10"  Cursor="Hand" MinWidth="150" Height="150">
+                        <StackPanel.InputBindings>
+                            <MouseBinding Command="{Binding StartGame}" MouseAction="LeftClick" />
+                        </StackPanel.InputBindings>
+                        <Image x:Name="Thame4Image4" MouseDown="StackDown1" Width="150" Height="150"></Image>
+                        <TextBlock FontWeight="Bold" x:Name="Thame4Text4"  Padding="0,10,0,0"  Margin="0,-50,0,0" MouseDown="StackDown2" TextAlignment="Center" Height="50"></TextBlock>
+
+                    </StackPanel>
+                </WrapPanel>
+
+            </Grid>
+
+        </DockPanel>
+    </Grid>
+    
+    
+</UserControl>

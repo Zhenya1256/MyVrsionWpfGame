@@ -1,0 +1,13 @@
+E:\ProjecktC#\WpfGame\Modal\bin\Debug\Modal.dll
+E:\ProjecktC#\WpfGame\Modal\bin\Debug\Modal.pdb
+E:\ProjecktC#\WpfGame\Modal\obj\Debug\Modal.csprojResolveAssemblyReference.cache
+E:\ProjecktC#\WpfGame\Modal\obj\Debug\Modal.dll
+E:\ProjecktC#\WpfGame\Modal\obj\Debug\Modal.pdb
+C:\Users\Євген\Downloads\Telegram Desktop\WpfGame\Modal\bin\Debug\Modal.dll
+C:\Users\Євген\Downloads\Telegram Desktop\WpfGame\Modal\bin\Debug\Modal.pdb
+C:\Users\Євген\Downloads\Telegram Desktop\WpfGame\Modal\obj\Debug\Modal.dll
+C:\Users\Євген\Downloads\Telegram Desktop\WpfGame\Modal\obj\Debug\Modal.pdb
+C:\Users\user\Desktop\WpfGame\Modal\bin\Debug\Modal.dll
+C:\Users\user\Desktop\WpfGame\Modal\bin\Debug\Modal.pdb
+C:\Users\user\Desktop\WpfGame\Modal\obj\Debug\Modal.dll
+C:\Users\user\Desktop\WpfGame\Modal\obj\Debug\Modal.pdb

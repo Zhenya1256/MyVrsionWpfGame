@@ -1,0 +1,38 @@
+E:\ProjecktC#\WpfGame\ViewModal\bin\Debug\ViewModal.dll
+E:\ProjecktC#\WpfGame\ViewModal\bin\Debug\ViewModal.pdb
+E:\ProjecktC#\WpfGame\ViewModal\obj\Debug\ViewModal.csprojResolveAssemblyReference.cache
+E:\ProjecktC#\WpfGame\ViewModal\obj\Debug\ViewModal.dll
+E:\ProjecktC#\WpfGame\ViewModal\obj\Debug\ViewModal.pdb
+C:\Users\Євген\Downloads\Telegram Desktop\WpfGame\ViewModal\bin\Debug\ViewModal.dll
+C:\Users\Євген\Downloads\Telegram Desktop\WpfGame\ViewModal\bin\Debug\ViewModal.pdb
+C:\Users\Євген\Downloads\Telegram Desktop\WpfGame\ViewModal\bin\Debug\WpfGame.exe
+C:\Users\Євген\Downloads\Telegram Desktop\WpfGame\ViewModal\bin\Debug\WpfGme.UiEntites.dll
+C:\Users\Євген\Downloads\Telegram Desktop\WpfGame\ViewModal\bin\Debug\WpfGame.WorkWithCommad.dll
+C:\Users\Євген\Downloads\Telegram Desktop\WpfGame\ViewModal\bin\Debug\SharpCompress.dll
+C:\Users\Євген\Downloads\Telegram Desktop\WpfGame\ViewModal\bin\Debug\WpfGame.OpenArchive.dll
+C:\Users\Євген\Downloads\Telegram Desktop\WpfGame\ViewModal\bin\Debug\WpgGame.SaveBinaryFormat.dll
+C:\Users\Євген\Downloads\Telegram Desktop\WpfGame\ViewModal\bin\Debug\WpfGame.pdb
+C:\Users\Євген\Downloads\Telegram Desktop\WpfGame\ViewModal\bin\Debug\WpfGme.UiEntites.pdb
+C:\Users\Євген\Downloads\Telegram Desktop\WpfGame\ViewModal\bin\Debug\WpfGame.WorkWithCommad.pdb
+C:\Users\Євген\Downloads\Telegram Desktop\WpfGame\ViewModal\bin\Debug\WpfGame.OpenArchive.pdb
+C:\Users\Євген\Downloads\Telegram Desktop\WpfGame\ViewModal\bin\Debug\WpgGame.SaveBinaryFormat.pdb
+C:\Users\Євген\Downloads\Telegram Desktop\WpfGame\ViewModal\obj\Debug\ViewModal.csprojResolveAssemblyReference.cache
+C:\Users\Євген\Downloads\Telegram Desktop\WpfGame\ViewModal\obj\Debug\ViewModal.dll
+C:\Users\Євген\Downloads\Telegram Desktop\WpfGame\ViewModal\obj\Debug\ViewModal.pdb
+C:\Users\user\Desktop\WpfGame\ViewModal\bin\Debug\ViewModal.dll
+C:\Users\user\Desktop\WpfGame\ViewModal\bin\Debug\ViewModal.pdb
+C:\Users\user\Desktop\WpfGame\ViewModal\bin\Debug\WpfGame.exe
+C:\Users\user\Desktop\WpfGame\ViewModal\bin\Debug\WpfGme.UiEntites.dll
+C:\Users\user\Desktop\WpfGame\ViewModal\bin\Debug\WpfGame.WorkWithCommad.dll
+C:\Users\user\Desktop\WpfGame\ViewModal\bin\Debug\SharpCompress.dll
+C:\Users\user\Desktop\WpfGame\ViewModal\bin\Debug\WpfGame.OpenArchive.dll
+C:\Users\user\Desktop\WpfGame\ViewModal\bin\Debug\WpgGame.SaveBinaryFormat.dll
+C:\Users\user\Desktop\WpfGame\ViewModal\bin\Debug\WpfGame.pdb
+C:\Users\user\Desktop\WpfGame\ViewModal\bin\Debug\WpfGame.exe.config
+C:\Users\user\Desktop\WpfGame\ViewModal\bin\Debug\WpfGme.UiEntites.pdb
+C:\Users\user\Desktop\WpfGame\ViewModal\bin\Debug\WpfGame.WorkWithCommad.pdb
+C:\Users\user\Desktop\WpfGame\ViewModal\bin\Debug\WpfGame.OpenArchive.pdb
+C:\Users\user\Desktop\WpfGame\ViewModal\bin\Debug\WpgGame.SaveBinaryFormat.pdb
+C:\Users\user\Desktop\WpfGame\ViewModal\obj\Debug\ViewModal.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\WpfGame\ViewModal\obj\Debug\ViewModal.dll
+C:\Users\user\Desktop\WpfGame\ViewModal\obj\Debug\ViewModal.pdb

@@ -1,0 +1,29 @@
+C:\Users\Євген\Downloads\Telegram Desktop\WpfGame\ConsoleApplication\bin\Debug\ConsoleApplication.exe.config
+C:\Users\Євген\Downloads\Telegram Desktop\WpfGame\ConsoleApplication\bin\Debug\ConsoleApplication.exe
+C:\Users\Євген\Downloads\Telegram Desktop\WpfGame\ConsoleApplication\bin\Debug\ConsoleApplication.pdb
+C:\Users\Євген\Downloads\Telegram Desktop\WpfGame\ConsoleApplication\bin\Debug\SharpCompress.dll
+C:\Users\Євген\Downloads\Telegram Desktop\WpfGame\ConsoleApplication\bin\Debug\WpfGame.OpenArchive.dll
+C:\Users\Євген\Downloads\Telegram Desktop\WpfGame\ConsoleApplication\bin\Debug\WpfGme.UiEntites.dll
+C:\Users\Євген\Downloads\Telegram Desktop\WpfGame\ConsoleApplication\bin\Debug\WpgGame.SaveBinaryFormat.dll
+C:\Users\Євген\Downloads\Telegram Desktop\WpfGame\ConsoleApplication\bin\Debug\WpfGame.WorkWithCommad.dll
+C:\Users\Євген\Downloads\Telegram Desktop\WpfGame\ConsoleApplication\bin\Debug\WpfGame.OpenArchive.pdb
+C:\Users\Євген\Downloads\Telegram Desktop\WpfGame\ConsoleApplication\bin\Debug\WpfGme.UiEntites.pdb
+C:\Users\Євген\Downloads\Telegram Desktop\WpfGame\ConsoleApplication\bin\Debug\WpgGame.SaveBinaryFormat.pdb
+C:\Users\Євген\Downloads\Telegram Desktop\WpfGame\ConsoleApplication\bin\Debug\WpfGame.WorkWithCommad.pdb
+C:\Users\Євген\Downloads\Telegram Desktop\WpfGame\ConsoleApplication\obj\Debug\ConsoleApplication.csprojResolveAssemblyReference.cache
+C:\Users\Євген\Downloads\Telegram Desktop\WpfGame\ConsoleApplication\obj\Debug\ConsoleApplication.exe
+C:\Users\Євген\Downloads\Telegram Desktop\WpfGame\ConsoleApplication\obj\Debug\ConsoleApplication.pdb
+C:\Users\user\Desktop\WpfGame\ConsoleApplication\bin\Debug\ConsoleApplication.exe.config
+C:\Users\user\Desktop\WpfGame\ConsoleApplication\bin\Debug\ConsoleApplication.exe
+C:\Users\user\Desktop\WpfGame\ConsoleApplication\bin\Debug\ConsoleApplication.pdb
+C:\Users\user\Desktop\WpfGame\ConsoleApplication\bin\Debug\WpfGame.OpenArchive.dll
+C:\Users\user\Desktop\WpfGame\ConsoleApplication\bin\Debug\WpfGme.UiEntites.dll
+C:\Users\user\Desktop\WpfGame\ConsoleApplication\bin\Debug\WpgGame.SaveBinaryFormat.dll
+C:\Users\user\Desktop\WpfGame\ConsoleApplication\bin\Debug\WpfGame.WorkWithCommad.dll
+C:\Users\user\Desktop\WpfGame\ConsoleApplication\bin\Debug\WpfGame.OpenArchive.pdb
+C:\Users\user\Desktop\WpfGame\ConsoleApplication\bin\Debug\WpfGme.UiEntites.pdb
+C:\Users\user\Desktop\WpfGame\ConsoleApplication\bin\Debug\WpgGame.SaveBinaryFormat.pdb
+C:\Users\user\Desktop\WpfGame\ConsoleApplication\bin\Debug\WpfGame.WorkWithCommad.pdb
+C:\Users\user\Desktop\WpfGame\ConsoleApplication\obj\Debug\ConsoleApplication.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\WpfGame\ConsoleApplication\obj\Debug\ConsoleApplication.exe
+C:\Users\user\Desktop\WpfGame\ConsoleApplication\obj\Debug\ConsoleApplication.pdb

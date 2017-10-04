@@ -1,0 +1,325 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{CD8E75B9-96C5-41F2-9DDB-5E0CC5DBA3DE}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>WpfGame</RootNamespace>
+    <AssemblyName>WpfGame</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <ProjectTypeGuids>{60dc8134-eba5-43b8-bcc9-bb4bc16c2548};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
+    <WarningLevel>4</WarningLevel>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <UseVSHostingProcess>true</UseVSHostingProcess>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="SharpCompress">
+      <HintPath>C:\Users\Євген\Desktop\SharpCompress.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.configuration" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xaml">
+      <RequiredTargetFramework>4.0</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="WindowsBase" />
+    <Reference Include="PresentationCore" />
+    <Reference Include="PresentationFramework" />
+  </ItemGroup>
+  <ItemGroup>
+    <ApplicationDefinition Include="App.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+    <Compile Include="Data\Enter.cs" />
+    <Compile Include="Data\Files.cs" />
+    <Compile Include="Data\Holder.cs" />
+    <Compile Include="Data\Phone.cs" />
+    <Compile Include="Data\ReadStrategy.cs" />
+    <Compile Include="Data\SaveStyle.cs" />
+    <Compile Include="Data\StageHolder.cs" />
+    <Compile Include="Data\UpdateStyle.cs" />
+    <Compile Include="DownLoadArchive.xaml.cs">
+      <DependentUpon>DownLoadArchive.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="LookTheeStage.xaml.cs">
+      <DependentUpon>LookTheeStage.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Main.xaml.cs">
+      <DependentUpon>Main.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="RandomCommands.xaml.cs">
+      <DependentUpon>RandomCommands.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="SomeSetting.xaml.cs">
+      <DependentUpon>SomeSetting.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="StageFour\ViewModel\IndexCommands.cs" />
+    <Compile Include="StageFour\ViewModel\LoadValuePicture.cs" />
+    <Compile Include="StageFour\ViewModel\VMCommands.cs" />
+    <Compile Include="StageFour\View\CommandsForStageFour.xaml.cs">
+      <DependentUpon>CommandsForStageFour.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="StageFour\View\StartCommandNow.xaml.cs">
+      <DependentUpon>StartCommandNow.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="StageFour\View\ViewThemsStageFour.xaml.cs">
+      <DependentUpon>ViewThemsStageFour.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Style\ChangeThems.cs" />
+    <Compile Include="UIHelper\ComponentResolve.cs" />
+    <Compile Include="ViewModal\ActionKey\ActionForPlay.cs" />
+    <Compile Include="ViewModal\ChooseStageViewModal.cs" />
+    <Compile Include="ViewModal\LookTreeViewModel.cs" />
+    <Compile Include="ViewModal\MainWindowViewModal.cs" />
+    <Compile Include="ViewModal\PlayViewModel.cs" />
+    <Compile Include="ViewModal\RelayCommand.cs" />
+    <Compile Include="ViewModal\SettingViewModel.cs" />
+    <Compile Include="ViewModal\SomeSettingViewModal.cs" />
+    <Compile Include="ViewModal\Stages\ChangeStage.cs" />
+    <Compile Include="ViewModal\Stages\ResultQuation.cs" />
+    <Compile Include="ViewModal\StaticClass\BackStage.cs" />
+    <Compile Include="ViewModal\StaticClass\Group.cs" />
+    <Compile Include="ViewModal\StaticClass\ListBoxOrImage.cs" />
+    <Compile Include="ViewModal\StaticClass\MyColorsForCommands.cs" />
+    <Compile Include="ViewModal\StaticClass\Result.cs" />
+    <Compile Include="ViewModal\StaticClass\ResultDataThems.cs" />
+    <Compile Include="ViewModal\StaticClass\StackPanelIsEnabled.cs" />
+    <Compile Include="ViewModal\StaticClass\StanTextBlock.cs" />
+    <Compile Include="ViewModal\TempDir\TempGrops.cs" />
+    <Compile Include="ViewModal\ThemsViewModal.cs" />
+    <Compile Include="ViewModal\ViewModelBase.cs" />
+    <Compile Include="ViewModal\ViewModelStage\ComposedStage.cs" />
+    <Compile Include="ViewModal\ViewModelStage\ImageViewModel.cs" />
+    <Compile Include="ViewModal\ViewModelStage\PathFile.cs" />
+    <Compile Include="ViewModal\ViewModelStage\RandomCreateCommands.cs" />
+    <Compile Include="ViewModal\WindowChooseViewModal.cs" />
+    <Compile Include="View\ViewChooseStag.xaml.cs">
+      <DependentUpon>ViewChooseStag.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="View\ViewPlay.xaml.cs">
+      <DependentUpon>ViewPlay.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="View\ViewSetting.xaml.cs">
+      <DependentUpon>ViewSetting.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="View\ViewStartPage.xaml.cs">
+      <DependentUpon>ViewStartPage.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="View\ViewThems.xaml.cs">
+      <DependentUpon>ViewThems.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="WinCommand.xaml.cs">
+      <DependentUpon>WinCommand.xaml</DependentUpon>
+    </Compile>
+    <Page Include="DownLoadArchive.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="LookTheeStage.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Main.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="RandomCommands.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="SomeSetting.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="StageFour\View\CommandsForStageFour.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="StageFour\View\StartCommandNow.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="StageFour\View\ViewThemsStageFour.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Style\Темний.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Style\Image1Style.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Style\Image2Style.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Style\Image3Style.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Style\Image4Style.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Style\Світлий.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="View\ViewChooseStag.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="View\ViewPlay.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="View\ViewSetting.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="View\ViewStartPage.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="View\ViewThems.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Compile Include="App.xaml.cs">
+      <DependentUpon>App.xaml</DependentUpon>
+      <SubType>Code</SubType>
+    </Compile>
+    <Page Include="WinCommand.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Properties\AssemblyInfo.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <AppDesigner Include="Properties\" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Resourse\appstore.ico" />
+    <Resource Include="Resourse\BackgroundImageName.txt" />
+    <Resource Include="Resourse\browser.ico" />
+    <Resource Include="Resourse\chat.ico" />
+    <Resource Include="Resourse\IconName.txt" />
+    <Resource Include="Resourse\StyleName.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\ClassLibrary1\WpfGame.HolderMessage.csproj">
+      <Project>{B81055A0-85AD-40BF-8A3D-34A655CCDBBF}</Project>
+      <Name>WpfGame.HolderMessage</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\WpfGame.OpenArchive\WpfGame.OpenArchive.csproj">
+      <Project>{FF1C4EA4-E285-4141-9A48-4EE86736CC8F}</Project>
+      <Name>WpfGame.OpenArchive</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\WpfGame.StaticClasses\WpfGame.StaticClasses.csproj">
+      <Project>{21B261D7-10A3-4656-8569-48D01DB1D4A5}</Project>
+      <Name>WpfGame.StaticClasses</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\WpfGame.WorkWithCommad\WpfGame.WorkWithCommad.csproj">
+      <Project>{66717482-87B4-42F7-9679-746E91EEC7A0}</Project>
+      <Name>WpfGame.WorkWithCommad</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\WpfGme.UiEntites\WpfGme.UiEntites.csproj">
+      <Project>{11011994-A181-4078-826C-A628692D204E}</Project>
+      <Name>WpfGme.UiEntites</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\WpgGame.SaveBinaryFormat\WpgGame.SaveBinaryFormat.csproj">
+      <Project>{8D09F99C-F2AE-4EB8-8E8B-3A54BFB6EC77}</Project>
+      <Name>WpgGame.SaveBinaryFormat</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Enums\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Resourse\Error.jpg" />
+    <Resource Include="Resourse\RigthAndError.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Resourse\Right.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Resourse\image1.jpg" />
+    <Resource Include="Resourse\image2.jpg" />
+    <Resource Include="Resourse\image3.jpg" />
+    <Resource Include="Resourse\image4.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Resourse\music.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Resourse\AddQuation.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Resourse\Error.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

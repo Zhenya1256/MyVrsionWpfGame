@@ -1,0 +1,118 @@
+﻿<UserControl Loaded="UserControl_Loaded" x:Class="WpfGame.View.ViewPlay"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:WpfGame.View"
+             mc:Ignorable="d" 
+              Height="auto" Width="auto" 
+             >
+
+    <UserControl.Resources>
+
+
+        <SolidColorBrush x:Key="Button.MouseOver.Background" Color="#000"/>
+
+        <Style TargetType="Button">
+
+            <Style.Triggers>
+                <Trigger Property="IsMouseOver" Value="True">
+                    <Setter Property="FontSize" Value="14" />
+                    <Setter Property="Background" Value="Red" />
+                </Trigger>
+            </Style.Triggers>
+        </Style>
+        <ControlTemplate x:Key="ButtonTemplate" TargetType="Button" >
+            <Border  Name="border" CornerRadius="15"
+                    TextBlock.Foreground="White" TextBlock.FontSize="54" Style="{DynamicResource ButtonsStyleOne}">
+
+                <ContentPresenter RecognizesAccessKey="True" Margin="{TemplateBinding Padding}" HorizontalAlignment="Center" VerticalAlignment="Center"  ></ContentPresenter>
+
+            </Border>
+            <ControlTemplate.Triggers>
+                <Trigger Property="IsMouseOver" Value="True">
+                    <Setter  Property="Background" Value="Red"></Setter>
+                </Trigger>
+                <Trigger Property="IsPressed" Value="True">
+                    <Setter  Property="BorderBrush" Value="Yellow"></Setter>
+                </Trigger>
+            </ControlTemplate.Triggers>
+        </ControlTemplate>
+    </UserControl.Resources>
+
+    <Grid Style="{DynamicResource GridStyle}" Name="PlayWindow"  >
+
+        <!--<DockPanel LastChildFill="False">
+            <Menu DockPanel.Dock="Top" FontSize="25" Padding="20">
+                <Menu.Background>
+                    <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                        <GradientStop Color="Black" Offset="1"/>
+                        <GradientStop Color="#FF07174F" Offset="0.696"/>
+                    </LinearGradientBrush>
+                </Menu.Background>
+
+
+                <Separator></Separator>
+
+            </Menu>
+        </DockPanel>-->
+        <DockPanel LastChildFill="False">
+            <Grid DockPanel.Dock="Top"  Height="460">
+                <TextBlock Height="80" x:Name="textQuation" FontSize="28" Padding="0,14,0,0" TextAlignment="Center" Foreground="White" VerticalAlignment="Top" FontWeight="Bold" LineStackingStrategy="BlockLineHeight" TextWrapping="Wrap" FontStyle="Oblique" FontStretch="UltraExpanded"></TextBlock>
+                <Image  x:Name="Quation" Source="/Resourse/music.jpg"  Margin="0,70,0,-60"  />
+                <ListView FontSize="20"  x:Name="listBox" Height="400" Width="400"  Margin="10" Visibility="Hidden" ItemsSource="{Binding Path=ListGroups}" SelectionChanged="listBox_SelectionChanged">
+                    <ListView.View>
+                        <GridView >
+                            <GridViewColumn DisplayMemberBinding="{Binding Path= Position, UpdateSourceTrigger=PropertyChanged}" Width="50">№</GridViewColumn>
+                            <GridViewColumn DisplayMemberBinding="{Binding Path=Name, UpdateSourceTrigger=PropertyChanged}" Width="150">Назва команди</GridViewColumn>
+                            <GridViewColumn DisplayMemberBinding="{Binding Path=Point, UpdateSourceTrigger=PropertyChanged}" Width="200">Бали</GridViewColumn>
+                        </GridView>
+                    </ListView.View>
+                    <ListView.Resources>
+
+                    </ListView.Resources>
+                </ListView>
+            </Grid>
+
+
+            <Grid DockPanel.Dock="Top" Height="242"  >
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="583*"/>
+                </Grid.ColumnDefinitions>
+
+
+
+                <Grid Grid.ColumnSpan="2">
+                    <Border  HorizontalAlignment="Center"   CornerRadius="30" BorderBrush="Black" BorderThickness="2" Margin="500,0,500,0" Width="350" Height="175" VerticalAlignment="Bottom" >
+                        <Label  x:Name="labelTimer" Content="{Binding TimerValue}" FontSize="116" Margin="8,0,-2,10"  VerticalAlignment="Center"  HorizontalAlignment="Center"/>
+                    </Border>
+
+                </Grid>
+
+
+            </Grid>
+            <!--<Image Margin="40" ></Image>-->
+
+            <!--<Grid  x:Name="Modal" Style="{DynamicResource GridStyle}" Visibility="Hidden"  HorizontalAlignment="Center" MinWidth="1208" Width="2668" Margin="0,-878,0,-211" >
+                <StackPanel Orientation="Vertical" Width="505" HorizontalAlignment="Center" VerticalAlignment="Center" Height="481" Margin="995,19,995,10">
+                    -->
+            <!--<ListBox   x:Name="listBox" Height="365"  Margin="10" Visibility="Visible" ItemsSource="{Binding Path=ListGroups}" SelectionChanged="listBox_SelectionChanged"/>-->
+            <!--
+
+                   
+
+                    <StackPanel Orientation="Horizontal"   >
+                        <Button x:Name="Right" Cursor="Hand" Margin="10" Background="#FF38A817" Width="230" Visibility="Visible"  FontSize="34" Padding="10"  Content="Вірно" VerticalAlignment="Top" >
+
+                        </Button>
+                        <Button x:Name="Error" Cursor="Hand" Visibility="Visible"  Margin="10"  Width="230" FontSize="34" Padding="10"  VerticalAlignment="Top" Content="Невірно" Background="#FFFF5100"  >
+                        </Button>
+                    </StackPanel>
+                </StackPanel>
+
+            </Grid>-->
+
+        </DockPanel>
+        <MediaElement x:Name="mediaElement" HorizontalAlignment="Left" Height="100" Margin="-112,271,0,0" VerticalAlignment="Top" Width="100"/>
+    </Grid>
+</UserControl>

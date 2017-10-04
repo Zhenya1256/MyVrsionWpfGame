@@ -1,0 +1,32 @@
+﻿<Window x:Class="WpfGame.SomeSetting"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfGame"
+        mc:Ignorable="d" 
+        Title="Повідомлення" Height="300" Width="500" >
+    <Grid Style="{DynamicResource GridStyle}"   >
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="17*"/>
+            <ColumnDefinition Width="24*"/>
+        </Grid.ColumnDefinitions>
+        <!--Style="{DynamicResource GridStyle}"-->
+        <Grid Grid.ColumnSpan="2" >
+            <Label Content="Виконайте деякі налаштування !" FontSize="20"  Foreground="Red" HorizontalAlignment="Center" VerticalAlignment="Top"></Label>
+            <StackPanel HorizontalAlignment="Center"  VerticalAlignment="Center"  Width="392"  >
+                <StackPanel Orientation="Horizontal" HorizontalAlignment="Center">
+                    <Button Name="Createcommand" Click="Createcommand_Click" Cursor="Hand" Background="#FF38A817" FontSize="20"   Content="Перейти до формування груп" Margin="10" Padding="10"  Command="{Binding SettingCommand}"     MinWidth="310" ></Button>
+                    <Image Name="CreatecommandImage" Source="Resourse/Error.png"  Width="50"></Image>
+                </StackPanel>
+                <StackPanel Orientation="Horizontal" HorizontalAlignment="Center">
+                    <Button x:Name="buttonSetting"   Cursor="Hand" Background="#FF38A817" Click="Setting_Click" FontSize="20"  Content="Перейти до налаштувань"  Command="{Binding Setting}" Margin="10" Padding="10"  MinWidth="310" ></Button>
+                    <Image  Name="Setting" Source="Resourse/Error.png" Width="50" HorizontalAlignment="Right"></Image>
+                </StackPanel>
+
+
+            </StackPanel>
+
+        </Grid>
+    </Grid>
+</Window>

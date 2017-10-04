@@ -1,0 +1,11 @@
+E:\we\1509\WpfGame\WpfGame.StaticClasses\bin\Debug\WpfGame.StaticClasses.dll
+E:\we\1509\WpfGame\WpfGame.StaticClasses\bin\Debug\WpfGame.StaticClasses.pdb
+E:\we\1509\WpfGame\WpfGame.StaticClasses\bin\Debug\WpgGame.SaveBinaryFormat.dll
+E:\we\1509\WpfGame\WpfGame.StaticClasses\bin\Debug\WpfGme.UiEntites.dll
+E:\we\1509\WpfGame\WpfGame.StaticClasses\bin\Debug\WpfGame.WorkWithCommad.dll
+E:\we\1509\WpfGame\WpfGame.StaticClasses\bin\Debug\WpgGame.SaveBinaryFormat.pdb
+E:\we\1509\WpfGame\WpfGame.StaticClasses\bin\Debug\WpfGme.UiEntites.pdb
+E:\we\1509\WpfGame\WpfGame.StaticClasses\bin\Debug\WpfGame.WorkWithCommad.pdb
+E:\we\1509\WpfGame\WpfGame.StaticClasses\obj\Debug\WpfGame.StaticClasses.csprojResolveAssemblyReference.cache
+E:\we\1509\WpfGame\WpfGame.StaticClasses\obj\Debug\WpfGame.StaticClasses.dll
+E:\we\1509\WpfGame\WpfGame.StaticClasses\obj\Debug\WpfGame.StaticClasses.pdb

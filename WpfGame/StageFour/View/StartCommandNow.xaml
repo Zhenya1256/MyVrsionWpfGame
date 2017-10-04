@@ -1,0 +1,12 @@
+﻿<Window x:Class="WpfGame.StageFour.View.StartCommandNow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfGame.StageFour.View"
+        mc:Ignorable="d"
+        Title="StartCommandNow" MaxHeight="80" MaxWidth="350">
+    <Grid Background="White">
+        <TextBlock Foreground="Black" x:Name="textCommand" Text="Зараз відповідає команда: "></TextBlock>
+    </Grid>
+</Window>

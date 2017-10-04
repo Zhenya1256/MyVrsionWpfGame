@@ -1,0 +1,20 @@
+C:\Users\Євген\Downloads\Telegram Desktop\WpfGame\WpfGame.WorkWithCommad\bin\Debug\WpfGame.WorkWithCommad.dll
+C:\Users\Євген\Downloads\Telegram Desktop\WpfGame\WpfGame.WorkWithCommad\bin\Debug\WpfGame.WorkWithCommad.pdb
+C:\Users\Євген\Downloads\Telegram Desktop\WpfGame\WpfGame.WorkWithCommad\obj\Debug\WpfGame.WorkWithCommad.dll
+C:\Users\Євген\Downloads\Telegram Desktop\WpfGame\WpfGame.WorkWithCommad\obj\Debug\WpfGame.WorkWithCommad.pdb
+C:\Users\Євген\Downloads\Telegram Desktop\WpfGame\WpfGame.WorkWithCommad\obj\Debug\WpfGame.WorkWithCommad.csprojResolveAssemblyReference.cache
+E:\Основы сис. инж\WpfGame\WpfGame.WorkWithCommad\bin\Debug\WpfGame.WorkWithCommad.dll
+E:\Основы сис. инж\WpfGame\WpfGame.WorkWithCommad\bin\Debug\WpfGame.WorkWithCommad.pdb
+E:\Основы сис. инж\WpfGame\WpfGame.WorkWithCommad\obj\Debug\WpfGame.WorkWithCommad.csprojResolveAssemblyReference.cache
+E:\Основы сис. инж\WpfGame\WpfGame.WorkWithCommad\obj\Debug\WpfGame.WorkWithCommad.dll
+E:\Основы сис. инж\WpfGame\WpfGame.WorkWithCommad\obj\Debug\WpfGame.WorkWithCommad.pdb
+C:\Users\user\Desktop\WpfGame\WpfGame.WorkWithCommad\bin\Debug\WpfGame.WorkWithCommad.dll
+C:\Users\user\Desktop\WpfGame\WpfGame.WorkWithCommad\bin\Debug\WpfGame.WorkWithCommad.pdb
+C:\Users\user\Desktop\WpfGame\WpfGame.WorkWithCommad\obj\Debug\WpfGame.WorkWithCommad.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\WpfGame\WpfGame.WorkWithCommad\obj\Debug\WpfGame.WorkWithCommad.dll
+C:\Users\user\Desktop\WpfGame\WpfGame.WorkWithCommad\obj\Debug\WpfGame.WorkWithCommad.pdb
+E:\we\1509\WpfGame\WpfGame.WorkWithCommad\bin\Debug\WpfGame.WorkWithCommad.dll
+E:\we\1509\WpfGame\WpfGame.WorkWithCommad\bin\Debug\WpfGame.WorkWithCommad.pdb
+E:\we\1509\WpfGame\WpfGame.WorkWithCommad\obj\Debug\WpfGame.WorkWithCommad.csprojResolveAssemblyReference.cache
+E:\we\1509\WpfGame\WpfGame.WorkWithCommad\obj\Debug\WpfGame.WorkWithCommad.dll
+E:\we\1509\WpfGame\WpfGame.WorkWithCommad\obj\Debug\WpfGame.WorkWithCommad.pdb

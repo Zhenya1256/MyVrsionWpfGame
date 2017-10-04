@@ -1,0 +1,36 @@
+C:\Users\Євген\Downloads\Telegram Desktop\WpfGame\WpgGame.SaveBinaryFormat\bin\Debug\WpgGame.SaveBinaryFormat.dll
+C:\Users\Євген\Downloads\Telegram Desktop\WpfGame\WpgGame.SaveBinaryFormat\bin\Debug\WpgGame.SaveBinaryFormat.pdb
+C:\Users\Євген\Downloads\Telegram Desktop\WpfGame\WpgGame.SaveBinaryFormat\bin\Debug\WpfGame.WorkWithCommad.dll
+C:\Users\Євген\Downloads\Telegram Desktop\WpfGame\WpgGame.SaveBinaryFormat\bin\Debug\WpfGme.UiEntites.dll
+C:\Users\Євген\Downloads\Telegram Desktop\WpfGame\WpgGame.SaveBinaryFormat\bin\Debug\WpfGame.WorkWithCommad.pdb
+C:\Users\Євген\Downloads\Telegram Desktop\WpfGame\WpgGame.SaveBinaryFormat\bin\Debug\WpfGme.UiEntites.pdb
+C:\Users\Євген\Downloads\Telegram Desktop\WpfGame\WpgGame.SaveBinaryFormat\obj\Debug\WpgGame.SaveBinaryFormat.csprojResolveAssemblyReference.cache
+C:\Users\Євген\Downloads\Telegram Desktop\WpfGame\WpgGame.SaveBinaryFormat\obj\Debug\WpgGame.SaveBinaryFormat.dll
+C:\Users\Євген\Downloads\Telegram Desktop\WpfGame\WpgGame.SaveBinaryFormat\obj\Debug\WpgGame.SaveBinaryFormat.pdb
+E:\Основы сис. инж\WpfGame\WpgGame.SaveBinaryFormat\bin\Debug\WpgGame.SaveBinaryFormat.dll
+E:\Основы сис. инж\WpfGame\WpgGame.SaveBinaryFormat\bin\Debug\WpgGame.SaveBinaryFormat.pdb
+E:\Основы сис. инж\WpfGame\WpgGame.SaveBinaryFormat\bin\Debug\WpfGame.WorkWithCommad.dll
+E:\Основы сис. инж\WpfGame\WpgGame.SaveBinaryFormat\bin\Debug\WpfGme.UiEntites.dll
+E:\Основы сис. инж\WpfGame\WpgGame.SaveBinaryFormat\bin\Debug\WpfGame.WorkWithCommad.pdb
+E:\Основы сис. инж\WpfGame\WpgGame.SaveBinaryFormat\bin\Debug\WpfGme.UiEntites.pdb
+E:\Основы сис. инж\WpfGame\WpgGame.SaveBinaryFormat\obj\Debug\WpgGame.SaveBinaryFormat.csprojResolveAssemblyReference.cache
+E:\Основы сис. инж\WpfGame\WpgGame.SaveBinaryFormat\obj\Debug\WpgGame.SaveBinaryFormat.dll
+E:\Основы сис. инж\WpfGame\WpgGame.SaveBinaryFormat\obj\Debug\WpgGame.SaveBinaryFormat.pdb
+C:\Users\user\Desktop\WpfGame\WpgGame.SaveBinaryFormat\bin\Debug\WpgGame.SaveBinaryFormat.dll
+C:\Users\user\Desktop\WpfGame\WpgGame.SaveBinaryFormat\bin\Debug\WpgGame.SaveBinaryFormat.pdb
+C:\Users\user\Desktop\WpfGame\WpgGame.SaveBinaryFormat\bin\Debug\WpfGame.WorkWithCommad.dll
+C:\Users\user\Desktop\WpfGame\WpgGame.SaveBinaryFormat\bin\Debug\WpfGme.UiEntites.dll
+C:\Users\user\Desktop\WpfGame\WpgGame.SaveBinaryFormat\bin\Debug\WpfGame.WorkWithCommad.pdb
+C:\Users\user\Desktop\WpfGame\WpgGame.SaveBinaryFormat\bin\Debug\WpfGme.UiEntites.pdb
+C:\Users\user\Desktop\WpfGame\WpgGame.SaveBinaryFormat\obj\Debug\WpgGame.SaveBinaryFormat.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\WpfGame\WpgGame.SaveBinaryFormat\obj\Debug\WpgGame.SaveBinaryFormat.dll
+C:\Users\user\Desktop\WpfGame\WpgGame.SaveBinaryFormat\obj\Debug\WpgGame.SaveBinaryFormat.pdb
+E:\we\1509\WpfGame\WpgGame.SaveBinaryFormat\bin\Debug\WpgGame.SaveBinaryFormat.dll
+E:\we\1509\WpfGame\WpgGame.SaveBinaryFormat\bin\Debug\WpgGame.SaveBinaryFormat.pdb
+E:\we\1509\WpfGame\WpgGame.SaveBinaryFormat\bin\Debug\WpfGame.WorkWithCommad.dll
+E:\we\1509\WpfGame\WpgGame.SaveBinaryFormat\bin\Debug\WpfGme.UiEntites.dll
+E:\we\1509\WpfGame\WpgGame.SaveBinaryFormat\bin\Debug\WpfGame.WorkWithCommad.pdb
+E:\we\1509\WpfGame\WpgGame.SaveBinaryFormat\bin\Debug\WpfGme.UiEntites.pdb
+E:\we\1509\WpfGame\WpgGame.SaveBinaryFormat\obj\Debug\WpgGame.SaveBinaryFormat.csprojResolveAssemblyReference.cache
+E:\we\1509\WpfGame\WpgGame.SaveBinaryFormat\obj\Debug\WpgGame.SaveBinaryFormat.dll
+E:\we\1509\WpfGame\WpgGame.SaveBinaryFormat\obj\Debug\WpgGame.SaveBinaryFormat.pdb

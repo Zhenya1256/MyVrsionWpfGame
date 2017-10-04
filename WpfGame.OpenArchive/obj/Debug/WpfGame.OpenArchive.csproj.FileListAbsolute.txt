@@ -1,0 +1,45 @@
+C:\Users\Євген\Downloads\Telegram Desktop\WpfGame\WpfGame.OpenArchive\bin\Debug\WpfGame.OpenArchive.dll
+C:\Users\Євген\Downloads\Telegram Desktop\WpfGame\WpfGame.OpenArchive\bin\Debug\WpfGame.OpenArchive.pdb
+C:\Users\Євген\Downloads\Telegram Desktop\WpfGame\WpfGame.OpenArchive\bin\Debug\SharpCompress.dll
+C:\Users\Євген\Downloads\Telegram Desktop\WpfGame\WpfGame.OpenArchive\bin\Debug\WpfGme.UiEntites.dll
+C:\Users\Євген\Downloads\Telegram Desktop\WpfGame\WpfGame.OpenArchive\bin\Debug\WpgGame.SaveBinaryFormat.dll
+C:\Users\Євген\Downloads\Telegram Desktop\WpfGame\WpfGame.OpenArchive\bin\Debug\WpfGame.WorkWithCommad.dll
+C:\Users\Євген\Downloads\Telegram Desktop\WpfGame\WpfGame.OpenArchive\bin\Debug\WpfGme.UiEntites.pdb
+C:\Users\Євген\Downloads\Telegram Desktop\WpfGame\WpfGame.OpenArchive\bin\Debug\WpgGame.SaveBinaryFormat.pdb
+C:\Users\Євген\Downloads\Telegram Desktop\WpfGame\WpfGame.OpenArchive\bin\Debug\WpfGame.WorkWithCommad.pdb
+C:\Users\Євген\Downloads\Telegram Desktop\WpfGame\WpfGame.OpenArchive\obj\Debug\WpfGame.OpenArchive.csprojResolveAssemblyReference.cache
+C:\Users\Євген\Downloads\Telegram Desktop\WpfGame\WpfGame.OpenArchive\obj\Debug\WpfGame.OpenArchive.dll
+C:\Users\Євген\Downloads\Telegram Desktop\WpfGame\WpfGame.OpenArchive\obj\Debug\WpfGame.OpenArchive.pdb
+E:\Основы сис. инж\WpfGame\WpfGame.OpenArchive\bin\Debug\WpfGame.OpenArchive.dll
+E:\Основы сис. инж\WpfGame\WpfGame.OpenArchive\bin\Debug\WpfGame.OpenArchive.pdb
+E:\Основы сис. инж\WpfGame\WpfGame.OpenArchive\bin\Debug\WpfGme.UiEntites.dll
+E:\Основы сис. инж\WpfGame\WpfGame.OpenArchive\bin\Debug\WpgGame.SaveBinaryFormat.dll
+E:\Основы сис. инж\WpfGame\WpfGame.OpenArchive\bin\Debug\WpfGame.WorkWithCommad.dll
+E:\Основы сис. инж\WpfGame\WpfGame.OpenArchive\bin\Debug\WpfGme.UiEntites.pdb
+E:\Основы сис. инж\WpfGame\WpfGame.OpenArchive\bin\Debug\WpgGame.SaveBinaryFormat.pdb
+E:\Основы сис. инж\WpfGame\WpfGame.OpenArchive\bin\Debug\WpfGame.WorkWithCommad.pdb
+E:\Основы сис. инж\WpfGame\WpfGame.OpenArchive\obj\Debug\WpfGame.OpenArchive.csprojResolveAssemblyReference.cache
+E:\Основы сис. инж\WpfGame\WpfGame.OpenArchive\obj\Debug\WpfGame.OpenArchive.dll
+E:\Основы сис. инж\WpfGame\WpfGame.OpenArchive\obj\Debug\WpfGame.OpenArchive.pdb
+C:\Users\user\Desktop\WpfGame\WpfGame.OpenArchive\bin\Debug\WpfGame.OpenArchive.dll
+C:\Users\user\Desktop\WpfGame\WpfGame.OpenArchive\bin\Debug\WpfGame.OpenArchive.pdb
+C:\Users\user\Desktop\WpfGame\WpfGame.OpenArchive\bin\Debug\WpfGme.UiEntites.dll
+C:\Users\user\Desktop\WpfGame\WpfGame.OpenArchive\bin\Debug\WpgGame.SaveBinaryFormat.dll
+C:\Users\user\Desktop\WpfGame\WpfGame.OpenArchive\bin\Debug\WpfGame.WorkWithCommad.dll
+C:\Users\user\Desktop\WpfGame\WpfGame.OpenArchive\bin\Debug\WpfGme.UiEntites.pdb
+C:\Users\user\Desktop\WpfGame\WpfGame.OpenArchive\bin\Debug\WpgGame.SaveBinaryFormat.pdb
+C:\Users\user\Desktop\WpfGame\WpfGame.OpenArchive\bin\Debug\WpfGame.WorkWithCommad.pdb
+C:\Users\user\Desktop\WpfGame\WpfGame.OpenArchive\obj\Debug\WpfGame.OpenArchive.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\WpfGame\WpfGame.OpenArchive\obj\Debug\WpfGame.OpenArchive.dll
+C:\Users\user\Desktop\WpfGame\WpfGame.OpenArchive\obj\Debug\WpfGame.OpenArchive.pdb
+E:\we\1509\WpfGame\WpfGame.OpenArchive\bin\Debug\WpfGame.OpenArchive.dll
+E:\we\1509\WpfGame\WpfGame.OpenArchive\bin\Debug\WpfGame.OpenArchive.pdb
+E:\we\1509\WpfGame\WpfGame.OpenArchive\bin\Debug\WpfGme.UiEntites.dll
+E:\we\1509\WpfGame\WpfGame.OpenArchive\bin\Debug\WpgGame.SaveBinaryFormat.dll
+E:\we\1509\WpfGame\WpfGame.OpenArchive\bin\Debug\WpfGame.WorkWithCommad.dll
+E:\we\1509\WpfGame\WpfGame.OpenArchive\bin\Debug\WpfGme.UiEntites.pdb
+E:\we\1509\WpfGame\WpfGame.OpenArchive\bin\Debug\WpgGame.SaveBinaryFormat.pdb
+E:\we\1509\WpfGame\WpfGame.OpenArchive\bin\Debug\WpfGame.WorkWithCommad.pdb
+E:\we\1509\WpfGame\WpfGame.OpenArchive\obj\Debug\WpfGame.OpenArchive.csprojResolveAssemblyReference.cache
+E:\we\1509\WpfGame\WpfGame.OpenArchive\obj\Debug\WpfGame.OpenArchive.dll
+E:\we\1509\WpfGame\WpfGame.OpenArchive\obj\Debug\WpfGame.OpenArchive.pdb

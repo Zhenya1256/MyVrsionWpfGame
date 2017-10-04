@@ -1,0 +1,18 @@
+C:\Users\Євген\Downloads\Telegram Desktop\WpfGame\WpfGme.UiEntites\bin\Debug\WpfGme.UiEntites.dll
+C:\Users\Євген\Downloads\Telegram Desktop\WpfGame\WpfGme.UiEntites\bin\Debug\WpfGme.UiEntites.pdb
+C:\Users\Євген\Downloads\Telegram Desktop\WpfGame\WpfGme.UiEntites\obj\Debug\WpfGme.UiEntites.dll
+C:\Users\Євген\Downloads\Telegram Desktop\WpfGame\WpfGme.UiEntites\obj\Debug\WpfGme.UiEntites.pdb
+E:\Основы сис. инж\WpfGame\WpfGme.UiEntites\bin\Debug\WpfGme.UiEntites.dll
+E:\Основы сис. инж\WpfGame\WpfGme.UiEntites\bin\Debug\WpfGme.UiEntites.pdb
+E:\Основы сис. инж\WpfGame\WpfGme.UiEntites\obj\Debug\WpfGme.UiEntites.csprojResolveAssemblyReference.cache
+E:\Основы сис. инж\WpfGame\WpfGme.UiEntites\obj\Debug\WpfGme.UiEntites.dll
+E:\Основы сис. инж\WpfGame\WpfGme.UiEntites\obj\Debug\WpfGme.UiEntites.pdb
+C:\Users\user\Desktop\WpfGame\WpfGme.UiEntites\bin\Debug\WpfGme.UiEntites.dll
+C:\Users\user\Desktop\WpfGame\WpfGme.UiEntites\bin\Debug\WpfGme.UiEntites.pdb
+C:\Users\user\Desktop\WpfGame\WpfGme.UiEntites\obj\Debug\WpfGme.UiEntites.dll
+C:\Users\user\Desktop\WpfGame\WpfGme.UiEntites\obj\Debug\WpfGme.UiEntites.pdb
+E:\we\1509\WpfGame\WpfGme.UiEntites\bin\Debug\WpfGme.UiEntites.dll
+E:\we\1509\WpfGame\WpfGme.UiEntites\bin\Debug\WpfGme.UiEntites.pdb
+E:\we\1509\WpfGame\WpfGme.UiEntites\obj\Debug\WpfGme.UiEntites.csprojResolveAssemblyReference.cache
+E:\we\1509\WpfGame\WpfGme.UiEntites\obj\Debug\WpfGme.UiEntites.dll
+E:\we\1509\WpfGame\WpfGme.UiEntites\obj\Debug\WpfGme.UiEntites.pdb

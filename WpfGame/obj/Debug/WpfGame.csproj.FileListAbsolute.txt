@@ -1,0 +1,255 @@
+E:\ProjecktC#\WpfGame\WpfGame\bin\Debug\WpfGame.exe.config
+E:\ProjecktC#\WpfGame\WpfGame\bin\Debug\WpfGame.exe
+E:\ProjecktC#\WpfGame\WpfGame\bin\Debug\WpfGame.pdb
+E:\ProjecktC#\WpfGame\WpfGame\obj\Debug\App.g.cs
+E:\ProjecktC#\WpfGame\WpfGame\obj\Debug\WpfGame_MarkupCompile.cache
+E:\ProjecktC#\WpfGame\WpfGame\obj\Debug\WpfGame_MarkupCompile.lref
+E:\ProjecktC#\WpfGame\WpfGame\obj\Debug\WpfGame.g.resources
+E:\ProjecktC#\WpfGame\WpfGame\obj\Debug\WpfGame.Properties.Resources.resources
+E:\ProjecktC#\WpfGame\WpfGame\obj\Debug\WpfGame.csproj.GenerateResource.Cache
+E:\ProjecktC#\WpfGame\WpfGame\obj\Debug\WpfGame.exe
+E:\ProjecktC#\WpfGame\WpfGame\obj\Debug\WpfGame.pdb
+E:\ProjecktC#\WpfGame\WpfGame\obj\Debug\Introduction.g.cs
+E:\ProjecktC#\WpfGame\WpfGame\obj\Debug\Introduction.baml
+E:\ProjecktC#\WpfGame\WpfGame\obj\Debug\StartGame.g.cs
+E:\ProjecktC#\WpfGame\WpfGame\obj\Debug\WindowSetting.g.cs
+E:\ProjecktC#\WpfGame\WpfGame\obj\Debug\StartGame.baml
+E:\ProjecktC#\WpfGame\WpfGame\obj\Debug\WindowSetting.baml
+E:\ProjecktC#\WpfGame\WpfGame\bin\Debug\SharpCompress.dll
+E:\ProjecktC#\WpfGame\WpfGame\obj\Debug\WindowSettingButton.g.cs
+E:\ProjecktC#\WpfGame\WpfGame\obj\Debug\WindowSettingButton.baml
+E:\ProjecktC#\WpfGame\WpfGame\obj\Debug\WindowChooseEtap.g.cs
+E:\ProjecktC#\WpfGame\WpfGame\obj\Debug\WindowChooseEtap.baml
+E:\ProjecktC#\WpfGame\WpfGame\obj\Debug\WpfGame.csprojResolveAssemblyReference.cache
+E:\ProjecktC#\WpfGame\WpfGame\obj\Debug\Menu.g.cs
+E:\ProjecktC#\WpfGame\WpfGame\obj\Debug\Menu.baml
+E:\ProjecktC#\WpfGame\WpfGame\obj\Debug\View\ViewSetting.g.cs
+E:\ProjecktC#\WpfGame\WpfGame\obj\Debug\View\ViewSetting.baml
+E:\ProjecktC#\WpfGame\WpfGame\obj\Debug\View\ViewStartPage.g.cs
+E:\ProjecktC#\WpfGame\WpfGame\obj\Debug\View\ViewStartPage.baml
+E:\ProjecktC#\WpfGame\WpfGame\obj\Debug\View\ViewChooseStage.g.cs
+E:\ProjecktC#\WpfGame\WpfGame\obj\Debug\View\ViewChooseStage.baml
+E:\ProjecktC#\WpfGame\WpfGame\obj\Debug\View\ViewPlay.g.cs
+E:\ProjecktC#\WpfGame\WpfGame\obj\Debug\View\ViewThems.g.cs
+E:\ProjecktC#\WpfGame\WpfGame\obj\Debug\View\ViewPlay.baml
+E:\ProjecktC#\WpfGame\WpfGame\obj\Debug\View\ViewThems.baml
+E:\WpfGame\WpfGame\bin\Debug\WpfGame.exe.config
+E:\WpfGame\WpfGame\bin\Debug\WpfGame.exe
+E:\WpfGame\WpfGame\bin\Debug\WpfGame.pdb
+E:\WpfGame\WpfGame\obj\Debug\WpfGame.csprojResolveAssemblyReference.cache
+E:\WpfGame\WpfGame\obj\Debug\Menu.g.cs
+E:\WpfGame\WpfGame\obj\Debug\View\ViewChooseStage.g.cs
+E:\WpfGame\WpfGame\obj\Debug\View\ViewPlay.g.cs
+E:\WpfGame\WpfGame\obj\Debug\View\ViewSetting.g.cs
+E:\WpfGame\WpfGame\obj\Debug\View\ViewStartPage.g.cs
+E:\WpfGame\WpfGame\obj\Debug\View\ViewThems.g.cs
+E:\WpfGame\WpfGame\obj\Debug\App.g.cs
+E:\WpfGame\WpfGame\obj\Debug\WpfGame_MarkupCompile.cache
+E:\WpfGame\WpfGame\obj\Debug\WpfGame_MarkupCompile.lref
+E:\WpfGame\WpfGame\obj\Debug\LightStyle.baml
+E:\WpfGame\WpfGame\obj\Debug\Menu.baml
+E:\WpfGame\WpfGame\obj\Debug\View\ViewChooseStage.baml
+E:\WpfGame\WpfGame\obj\Debug\View\ViewPlay.baml
+E:\WpfGame\WpfGame\obj\Debug\View\ViewSetting.baml
+E:\WpfGame\WpfGame\obj\Debug\View\ViewStartPage.baml
+E:\WpfGame\WpfGame\obj\Debug\View\ViewThems.baml
+E:\WpfGame\WpfGame\obj\Debug\WpfGame.g.resources
+E:\WpfGame\WpfGame\obj\Debug\WpfGame.Properties.Resources.resources
+E:\WpfGame\WpfGame\obj\Debug\WpfGame.csproj.GenerateResource.Cache
+E:\WpfGame\WpfGame\obj\Debug\WpfGame.exe
+E:\WpfGame\WpfGame\obj\Debug\WpfGame.pdb
+E:\WpfGame\WpfGame\obj\Debug\darkstyle.baml
+C:\Users\Євген\Downloads\Telegram Desktop\WpfGame\WpfGame\bin\Debug\WpfGame.exe.config
+C:\Users\Євген\Downloads\Telegram Desktop\WpfGame\WpfGame\bin\Debug\WpfGame.exe
+C:\Users\Євген\Downloads\Telegram Desktop\WpfGame\WpfGame\bin\Debug\WpfGame.pdb
+C:\Users\Євген\Downloads\Telegram Desktop\WpfGame\WpfGame\bin\Debug\SharpCompress.dll
+C:\Users\Євген\Downloads\Telegram Desktop\WpfGame\WpfGame\bin\Debug\WpfGame.OpenArchive.dll
+C:\Users\Євген\Downloads\Telegram Desktop\WpfGame\WpfGame\bin\Debug\WpfGame.WorkWithCommad.dll
+C:\Users\Євген\Downloads\Telegram Desktop\WpfGame\WpfGame\bin\Debug\WpfGme.UiEntites.dll
+C:\Users\Євген\Downloads\Telegram Desktop\WpfGame\WpfGame\bin\Debug\WpgGame.SaveBinaryFormat.dll
+C:\Users\Євген\Downloads\Telegram Desktop\WpfGame\WpfGame\bin\Debug\WpfGame.OpenArchive.pdb
+C:\Users\Євген\Downloads\Telegram Desktop\WpfGame\WpfGame\bin\Debug\WpfGame.WorkWithCommad.pdb
+C:\Users\Євген\Downloads\Telegram Desktop\WpfGame\WpfGame\bin\Debug\WpfGme.UiEntites.pdb
+C:\Users\Євген\Downloads\Telegram Desktop\WpfGame\WpfGame\bin\Debug\WpgGame.SaveBinaryFormat.pdb
+C:\Users\Євген\Downloads\Telegram Desktop\WpfGame\WpfGame\obj\Debug\WpfGame.csprojResolveAssemblyReference.cache
+C:\Users\Євген\Downloads\Telegram Desktop\WpfGame\WpfGame\obj\Debug\DownLoadArchive.g.cs
+C:\Users\Євген\Downloads\Telegram Desktop\WpfGame\WpfGame\obj\Debug\Main.g.cs
+C:\Users\Євген\Downloads\Telegram Desktop\WpfGame\WpfGame\obj\Debug\View\ViewChooseStag.g.cs
+C:\Users\Євген\Downloads\Telegram Desktop\WpfGame\WpfGame\obj\Debug\View\ViewInfoThems\ErrorAndRight.g.cs
+C:\Users\Євген\Downloads\Telegram Desktop\WpfGame\WpfGame\obj\Debug\View\ViewInfoThems\ViewError.g.cs
+C:\Users\Євген\Downloads\Telegram Desktop\WpfGame\WpfGame\obj\Debug\View\ViewInfoThems\ViewRight.g.cs
+C:\Users\Євген\Downloads\Telegram Desktop\WpfGame\WpfGame\obj\Debug\View\ViewPlay.g.cs
+C:\Users\Євген\Downloads\Telegram Desktop\WpfGame\WpfGame\obj\Debug\View\ViewSetting.g.cs
+C:\Users\Євген\Downloads\Telegram Desktop\WpfGame\WpfGame\obj\Debug\View\ViewStartPage.g.cs
+C:\Users\Євген\Downloads\Telegram Desktop\WpfGame\WpfGame\obj\Debug\View\ViewThems.g.cs
+C:\Users\Євген\Downloads\Telegram Desktop\WpfGame\WpfGame\obj\Debug\App.g.cs
+C:\Users\Євген\Downloads\Telegram Desktop\WpfGame\WpfGame\obj\Debug\WpfGame_MarkupCompile.cache
+C:\Users\Євген\Downloads\Telegram Desktop\WpfGame\WpfGame\obj\Debug\WpfGame_MarkupCompile.lref
+C:\Users\Євген\Downloads\Telegram Desktop\WpfGame\WpfGame\obj\Debug\DownLoadArchive.baml
+C:\Users\Євген\Downloads\Telegram Desktop\WpfGame\WpfGame\obj\Debug\Main.baml
+C:\Users\Євген\Downloads\Telegram Desktop\WpfGame\WpfGame\obj\Debug\Style\darkstyle.baml
+C:\Users\Євген\Downloads\Telegram Desktop\WpfGame\WpfGame\obj\Debug\Style\Image1Style.baml
+C:\Users\Євген\Downloads\Telegram Desktop\WpfGame\WpfGame\obj\Debug\Style\Image2Style.baml
+C:\Users\Євген\Downloads\Telegram Desktop\WpfGame\WpfGame\obj\Debug\Style\lightstyle.baml
+C:\Users\Євген\Downloads\Telegram Desktop\WpfGame\WpfGame\obj\Debug\View\ViewChooseStag.baml
+C:\Users\Євген\Downloads\Telegram Desktop\WpfGame\WpfGame\obj\Debug\View\ViewInfoThems\ErrorAndRight.baml
+C:\Users\Євген\Downloads\Telegram Desktop\WpfGame\WpfGame\obj\Debug\View\ViewInfoThems\ViewError.baml
+C:\Users\Євген\Downloads\Telegram Desktop\WpfGame\WpfGame\obj\Debug\View\ViewInfoThems\ViewRight.baml
+C:\Users\Євген\Downloads\Telegram Desktop\WpfGame\WpfGame\obj\Debug\View\ViewPlay.baml
+C:\Users\Євген\Downloads\Telegram Desktop\WpfGame\WpfGame\obj\Debug\View\ViewSetting.baml
+C:\Users\Євген\Downloads\Telegram Desktop\WpfGame\WpfGame\obj\Debug\View\ViewStartPage.baml
+C:\Users\Євген\Downloads\Telegram Desktop\WpfGame\WpfGame\obj\Debug\View\ViewThems.baml
+C:\Users\Євген\Downloads\Telegram Desktop\WpfGame\WpfGame\obj\Debug\WpfGame.g.resources
+C:\Users\Євген\Downloads\Telegram Desktop\WpfGame\WpfGame\obj\Debug\WpfGame.Properties.Resources.resources
+C:\Users\Євген\Downloads\Telegram Desktop\WpfGame\WpfGame\obj\Debug\WpfGame.csproj.GenerateResource.Cache
+C:\Users\Євген\Downloads\Telegram Desktop\WpfGame\WpfGame\obj\Debug\WpfGame.exe
+C:\Users\Євген\Downloads\Telegram Desktop\WpfGame\WpfGame\obj\Debug\WpfGame.pdb
+E:\Основы сис. инж\WpfGame\WpfGame\bin\Debug\WpfGame.exe.config
+E:\Основы сис. инж\WpfGame\WpfGame\obj\Debug\WpfGame.exe
+E:\Основы сис. инж\WpfGame\WpfGame\obj\Debug\WpfGame.pdb
+E:\Основы сис. инж\WpfGame\WpfGame\bin\Debug\WpfGame.exe
+E:\Основы сис. инж\WpfGame\WpfGame\bin\Debug\WpfGame.pdb
+E:\Основы сис. инж\WpfGame\WpfGame\bin\Debug\WpfGame.OpenArchive.dll
+E:\Основы сис. инж\WpfGame\WpfGame\bin\Debug\WpfGame.WorkWithCommad.dll
+E:\Основы сис. инж\WpfGame\WpfGame\bin\Debug\WpfGme.UiEntites.dll
+E:\Основы сис. инж\WpfGame\WpfGame\bin\Debug\WpgGame.SaveBinaryFormat.dll
+E:\Основы сис. инж\WpfGame\WpfGame\bin\Debug\WpfGame.OpenArchive.pdb
+E:\Основы сис. инж\WpfGame\WpfGame\bin\Debug\WpfGame.WorkWithCommad.pdb
+E:\Основы сис. инж\WpfGame\WpfGame\bin\Debug\WpfGme.UiEntites.pdb
+E:\Основы сис. инж\WpfGame\WpfGame\bin\Debug\WpgGame.SaveBinaryFormat.pdb
+E:\Основы сис. инж\WpfGame\WpfGame\obj\Debug\WpfGame.csprojResolveAssemblyReference.cache
+E:\Основы сис. инж\WpfGame\WpfGame\obj\Debug\DownLoadArchive.g.cs
+E:\Основы сис. инж\WpfGame\WpfGame\obj\Debug\Main.g.cs
+E:\Основы сис. инж\WpfGame\WpfGame\obj\Debug\View\ViewChooseStag.g.cs
+E:\Основы сис. инж\WpfGame\WpfGame\obj\Debug\View\ViewInfoThems\ErrorAndRight.g.cs
+E:\Основы сис. инж\WpfGame\WpfGame\obj\Debug\View\ViewInfoThems\ViewError.g.cs
+E:\Основы сис. инж\WpfGame\WpfGame\obj\Debug\View\ViewInfoThems\ViewRight.g.cs
+E:\Основы сис. инж\WpfGame\WpfGame\obj\Debug\View\ViewPlay.g.cs
+E:\Основы сис. инж\WpfGame\WpfGame\obj\Debug\View\ViewSetting.g.cs
+E:\Основы сис. инж\WpfGame\WpfGame\obj\Debug\View\ViewStartPage.g.cs
+E:\Основы сис. инж\WpfGame\WpfGame\obj\Debug\View\ViewThems.g.cs
+E:\Основы сис. инж\WpfGame\WpfGame\obj\Debug\App.g.cs
+E:\Основы сис. инж\WpfGame\WpfGame\obj\Debug\WpfGame_MarkupCompile.cache
+E:\Основы сис. инж\WpfGame\WpfGame\obj\Debug\WpfGame_MarkupCompile.lref
+E:\Основы сис. инж\WpfGame\WpfGame\obj\Debug\DownLoadArchive.baml
+E:\Основы сис. инж\WpfGame\WpfGame\obj\Debug\Main.baml
+E:\Основы сис. инж\WpfGame\WpfGame\obj\Debug\Style\darkstyle.baml
+E:\Основы сис. инж\WpfGame\WpfGame\obj\Debug\Style\Image1Style.baml
+E:\Основы сис. инж\WpfGame\WpfGame\obj\Debug\Style\Image2Style.baml
+E:\Основы сис. инж\WpfGame\WpfGame\obj\Debug\Style\lightstyle.baml
+E:\Основы сис. инж\WpfGame\WpfGame\obj\Debug\View\ViewChooseStag.baml
+E:\Основы сис. инж\WpfGame\WpfGame\obj\Debug\View\ViewInfoThems\ErrorAndRight.baml
+E:\Основы сис. инж\WpfGame\WpfGame\obj\Debug\View\ViewInfoThems\ViewError.baml
+E:\Основы сис. инж\WpfGame\WpfGame\obj\Debug\View\ViewInfoThems\ViewRight.baml
+E:\Основы сис. инж\WpfGame\WpfGame\obj\Debug\View\ViewPlay.baml
+E:\Основы сис. инж\WpfGame\WpfGame\obj\Debug\View\ViewSetting.baml
+E:\Основы сис. инж\WpfGame\WpfGame\obj\Debug\View\ViewStartPage.baml
+E:\Основы сис. инж\WpfGame\WpfGame\obj\Debug\View\ViewThems.baml
+E:\Основы сис. инж\WpfGame\WpfGame\obj\Debug\WpfGame.g.resources
+E:\Основы сис. инж\WpfGame\WpfGame\obj\Debug\WpfGame.Properties.Resources.resources
+E:\Основы сис. инж\WpfGame\WpfGame\obj\Debug\WpfGame.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\WpfGame\WpfGame\bin\Debug\WpfGame.exe.config
+C:\Users\user\Desktop\WpfGame\WpfGame\bin\Debug\WpfGame.exe
+C:\Users\user\Desktop\WpfGame\WpfGame\bin\Debug\WpfGame.pdb
+C:\Users\user\Desktop\WpfGame\WpfGame\bin\Debug\WpfGame.OpenArchive.dll
+C:\Users\user\Desktop\WpfGame\WpfGame\bin\Debug\WpfGame.WorkWithCommad.dll
+C:\Users\user\Desktop\WpfGame\WpfGame\bin\Debug\WpfGme.UiEntites.dll
+C:\Users\user\Desktop\WpfGame\WpfGame\bin\Debug\WpgGame.SaveBinaryFormat.dll
+C:\Users\user\Desktop\WpfGame\WpfGame\bin\Debug\WpfGame.OpenArchive.pdb
+C:\Users\user\Desktop\WpfGame\WpfGame\bin\Debug\WpfGame.WorkWithCommad.pdb
+C:\Users\user\Desktop\WpfGame\WpfGame\bin\Debug\WpfGme.UiEntites.pdb
+C:\Users\user\Desktop\WpfGame\WpfGame\bin\Debug\WpgGame.SaveBinaryFormat.pdb
+C:\Users\user\Desktop\WpfGame\WpfGame\obj\Debug\WpfGame.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\WpfGame\WpfGame\obj\Debug\DownLoadArchive.g.cs
+C:\Users\user\Desktop\WpfGame\WpfGame\obj\Debug\List.g.cs
+C:\Users\user\Desktop\WpfGame\WpfGame\obj\Debug\Main.g.cs
+C:\Users\user\Desktop\WpfGame\WpfGame\obj\Debug\View\ViewChooseStag.g.cs
+C:\Users\user\Desktop\WpfGame\WpfGame\obj\Debug\View\ViewInfoThems\ErrorAndRight.g.cs
+C:\Users\user\Desktop\WpfGame\WpfGame\obj\Debug\View\ViewInfoThems\ViewError.g.cs
+C:\Users\user\Desktop\WpfGame\WpfGame\obj\Debug\View\ViewInfoThems\ViewRight.g.cs
+C:\Users\user\Desktop\WpfGame\WpfGame\obj\Debug\View\ViewPlay.g.cs
+C:\Users\user\Desktop\WpfGame\WpfGame\obj\Debug\View\ViewSetting.g.cs
+C:\Users\user\Desktop\WpfGame\WpfGame\obj\Debug\View\ViewStartPage.g.cs
+C:\Users\user\Desktop\WpfGame\WpfGame\obj\Debug\View\ViewThems.g.cs
+C:\Users\user\Desktop\WpfGame\WpfGame\obj\Debug\App.g.cs
+C:\Users\user\Desktop\WpfGame\WpfGame\obj\Debug\WpfGame_MarkupCompile.cache
+C:\Users\user\Desktop\WpfGame\WpfGame\obj\Debug\WpfGame_MarkupCompile.lref
+C:\Users\user\Desktop\WpfGame\WpfGame\obj\Debug\DownLoadArchive.baml
+C:\Users\user\Desktop\WpfGame\WpfGame\obj\Debug\List.baml
+C:\Users\user\Desktop\WpfGame\WpfGame\obj\Debug\Main.baml
+C:\Users\user\Desktop\WpfGame\WpfGame\obj\Debug\Style\darkstyle.baml
+C:\Users\user\Desktop\WpfGame\WpfGame\obj\Debug\Style\Image1Style.baml
+C:\Users\user\Desktop\WpfGame\WpfGame\obj\Debug\Style\Image2Style.baml
+C:\Users\user\Desktop\WpfGame\WpfGame\obj\Debug\Style\lightstyle.baml
+C:\Users\user\Desktop\WpfGame\WpfGame\obj\Debug\View\ViewChooseStag.baml
+C:\Users\user\Desktop\WpfGame\WpfGame\obj\Debug\View\ViewInfoThems\ErrorAndRight.baml
+C:\Users\user\Desktop\WpfGame\WpfGame\obj\Debug\View\ViewInfoThems\ViewError.baml
+C:\Users\user\Desktop\WpfGame\WpfGame\obj\Debug\View\ViewInfoThems\ViewRight.baml
+C:\Users\user\Desktop\WpfGame\WpfGame\obj\Debug\View\ViewPlay.baml
+C:\Users\user\Desktop\WpfGame\WpfGame\obj\Debug\View\ViewSetting.baml
+C:\Users\user\Desktop\WpfGame\WpfGame\obj\Debug\View\ViewStartPage.baml
+C:\Users\user\Desktop\WpfGame\WpfGame\obj\Debug\View\ViewThems.baml
+C:\Users\user\Desktop\WpfGame\WpfGame\obj\Debug\WpfGame.g.resources
+C:\Users\user\Desktop\WpfGame\WpfGame\obj\Debug\WpfGame.Properties.Resources.resources
+C:\Users\user\Desktop\WpfGame\WpfGame\obj\Debug\WpfGame.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\WpfGame\WpfGame\obj\Debug\WpfGame.exe
+C:\Users\user\Desktop\WpfGame\WpfGame\obj\Debug\WpfGame.pdb
+E:\we\1509\WpfGame\WpfGame\bin\Debug\WpfGame.exe.config
+E:\we\1509\WpfGame\WpfGame\bin\Debug\WpfGame.exe
+E:\we\1509\WpfGame\WpfGame\bin\Debug\WpfGame.pdb
+E:\we\1509\WpfGame\WpfGame\bin\Debug\ClassLibrary1.dll
+E:\we\1509\WpfGame\WpfGame\bin\Debug\SharpCompress.dll
+E:\we\1509\WpfGame\WpfGame\bin\Debug\WpfGame.OpenArchive.dll
+E:\we\1509\WpfGame\WpfGame\bin\Debug\WpfGame.StaticClasses.dll
+E:\we\1509\WpfGame\WpfGame\bin\Debug\WpfGame.WorkWithCommad.dll
+E:\we\1509\WpfGame\WpfGame\bin\Debug\WpfGme.UiEntites.dll
+E:\we\1509\WpfGame\WpfGame\bin\Debug\WpgGame.SaveBinaryFormat.dll
+E:\we\1509\WpfGame\WpfGame\bin\Debug\ClassLibrary1.pdb
+E:\we\1509\WpfGame\WpfGame\bin\Debug\WpfGame.OpenArchive.pdb
+E:\we\1509\WpfGame\WpfGame\bin\Debug\WpfGame.StaticClasses.pdb
+E:\we\1509\WpfGame\WpfGame\bin\Debug\WpfGame.WorkWithCommad.pdb
+E:\we\1509\WpfGame\WpfGame\bin\Debug\WpfGme.UiEntites.pdb
+E:\we\1509\WpfGame\WpfGame\bin\Debug\WpgGame.SaveBinaryFormat.pdb
+E:\we\1509\WpfGame\WpfGame\obj\Debug\WpfGame.csprojResolveAssemblyReference.cache
+E:\we\1509\WpfGame\WpfGame\obj\Debug\DownLoadArchive.g.cs
+E:\we\1509\WpfGame\WpfGame\obj\Debug\LookTheeStage.g.cs
+E:\we\1509\WpfGame\WpfGame\obj\Debug\Main.g.cs
+E:\we\1509\WpfGame\WpfGame\obj\Debug\RandomCommands.g.cs
+E:\we\1509\WpfGame\WpfGame\obj\Debug\SomeSetting.g.cs
+E:\we\1509\WpfGame\WpfGame\obj\Debug\StageFour\View\CommandsForStageFour.g.cs
+E:\we\1509\WpfGame\WpfGame\obj\Debug\StageFour\View\StartCommandNow.g.cs
+E:\we\1509\WpfGame\WpfGame\obj\Debug\StageFour\View\ViewThemsStageFour.g.cs
+E:\we\1509\WpfGame\WpfGame\obj\Debug\View\ViewChooseStag.g.cs
+E:\we\1509\WpfGame\WpfGame\obj\Debug\View\ViewPlay.g.cs
+E:\we\1509\WpfGame\WpfGame\obj\Debug\View\ViewSetting.g.cs
+E:\we\1509\WpfGame\WpfGame\obj\Debug\View\ViewStartPage.g.cs
+E:\we\1509\WpfGame\WpfGame\obj\Debug\View\ViewThems.g.cs
+E:\we\1509\WpfGame\WpfGame\obj\Debug\WinCommand.g.cs
+E:\we\1509\WpfGame\WpfGame\obj\Debug\App.g.cs
+E:\we\1509\WpfGame\WpfGame\obj\Debug\WpfGame_MarkupCompile.cache
+E:\we\1509\WpfGame\WpfGame\obj\Debug\WpfGame_MarkupCompile.lref
+E:\we\1509\WpfGame\WpfGame\obj\Debug\DownLoadArchive.baml
+E:\we\1509\WpfGame\WpfGame\obj\Debug\LookTheeStage.baml
+E:\we\1509\WpfGame\WpfGame\obj\Debug\Main.baml
+E:\we\1509\WpfGame\WpfGame\obj\Debug\RandomCommands.baml
+E:\we\1509\WpfGame\WpfGame\obj\Debug\SomeSetting.baml
+E:\we\1509\WpfGame\WpfGame\obj\Debug\StageFour\View\CommandsForStageFour.baml
+E:\we\1509\WpfGame\WpfGame\obj\Debug\StageFour\View\StartCommandNow.baml
+E:\we\1509\WpfGame\WpfGame\obj\Debug\StageFour\View\ViewThemsStageFour.baml
+E:\we\1509\WpfGame\WpfGame\obj\Debug\Style\Темний.baml
+E:\we\1509\WpfGame\WpfGame\obj\Debug\Style\Image1Style.baml
+E:\we\1509\WpfGame\WpfGame\obj\Debug\Style\Image2Style.baml
+E:\we\1509\WpfGame\WpfGame\obj\Debug\Style\Image3Style.baml
+E:\we\1509\WpfGame\WpfGame\obj\Debug\Style\Image4Style.baml
+E:\we\1509\WpfGame\WpfGame\obj\Debug\Style\Світлий.baml
+E:\we\1509\WpfGame\WpfGame\obj\Debug\View\ViewChooseStag.baml
+E:\we\1509\WpfGame\WpfGame\obj\Debug\View\ViewPlay.baml
+E:\we\1509\WpfGame\WpfGame\obj\Debug\View\ViewSetting.baml
+E:\we\1509\WpfGame\WpfGame\obj\Debug\View\ViewStartPage.baml
+E:\we\1509\WpfGame\WpfGame\obj\Debug\View\ViewThems.baml
+E:\we\1509\WpfGame\WpfGame\obj\Debug\WinCommand.baml
+E:\we\1509\WpfGame\WpfGame\obj\Debug\WpfGame.g.resources
+E:\we\1509\WpfGame\WpfGame\obj\Debug\WpfGame.Properties.Resources.resources
+E:\we\1509\WpfGame\WpfGame\obj\Debug\WpfGame.csproj.GenerateResource.Cache
+E:\we\1509\WpfGame\WpfGame\obj\Debug\WpfGame.exe
+E:\we\1509\WpfGame\WpfGame\obj\Debug\WpfGame.pdb
